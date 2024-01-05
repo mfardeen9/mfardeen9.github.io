@@ -22,6 +22,6 @@ https://github.com/mfardeen9/mfardeen9.github.io/assets/31559901/103a40f9-8bb6-4
  ## Installation
 If you want to run the calculator app locally, follow these steps:
 1. Clone the repository:
-   git clone [https://github.com/your-username/calculator-app.git](https://github.com/mfardeen9/mfardeen9.github.io.git)
+   git clone https://github.com/mfardeen9/mfardeen9.github.io.git
 2. Navigate to the project directory: cd calculator-app
 Open index.html in your preferred web browser.
